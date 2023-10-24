@@ -1,4 +1,4 @@
-# Membuat aplikasi e-library (perpustakaan digital) dengan figma, html, vscode, SQLite
+# Membuat aplikasi e-library (perpustakaan digital) dengan figma, java script, vscode, SQLite
 Idha Hamidaturrosadi 24 Oktober 2023
 
 ## Intro
@@ -6,23 +6,23 @@ Perpustakaan digital (digital library atau E – Library) adalah tempat di mana 
 
 ## Analysis : Branding
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
-•	Merk: Enjoy read/ knowladge
-•	Tagline: happy membaca serta mendapat informasi/pengetahuan
-•	Campaign: Bagaimana membuat aplikasi yang membuat penggunanya jadi banyak mengetahui segala hal/pengetahuan, serta happy saat membaca karena desainnya tidak terlalu formal
-•	Target user:
-o	Usia 12+
-o	Seorang yang senang mencari inspirasi dan informasi baru
-o	Seorang yang senang membaca tapi praktis
-o	Seorang yang ingin mendapatkan pengetahuan banyak
-o	Seorang yang senang membaca lewat gadget
-o	Seorang yang kurang mampu membeli buku, tapi berkeinginan/excited untuk membaca
-•	User experience theme:
-o	Mudah
-o	Memberikan banyak pengetahuan
-o	Simpel
-o	Menyenangkan
-o	Warna: Lime fizz
-o	Inspirasi desain:
+•  Merk: Enjoy read/ knowladge
+•  Tagline: happy membaca serta mendapat informasi/pengetahuan
+•  Campaign: Bagaimana membuat aplikasi yang membuat penggunanya jadi banyak mengetahui segala hal/pengetahuan, serta happy saat membaca karena desainnya tidak terlalu formal
+•  Target user:
+o  Usia 12+
+o  Seorang yang senang mencari inspirasi dan informasi baru
+o  Seorang yang senang membaca tapi praktis
+o  Seorang yang ingin mendapatkan pengetahuan banyak
+o  Seorang yang senang membaca lewat gadget
+o  Seorang yang kurang mampu membeli buku, tapi berkeinginan/excited untuk membaca
+•  User experience theme:
+o  Mudah
+o  Memberikan banyak pengetahuan
+o  Simpel
+o  Menyenangkan
+o  Warna: Lime fizz
+o  Inspirasi desain:
 
 ![image](https://github.com/idhahamidaturrosadi19/App-ex/assets/144808574/d2e8dc70-0be3-4f4e-ad7e-1ea6bca651e9)
 
