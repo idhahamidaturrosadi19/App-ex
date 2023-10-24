@@ -26,6 +26,8 @@ o  Inspirasi desain:
 
 ![image](https://github.com/idhahamidaturrosadi19/App-ex/assets/144808574/d2e8dc70-0be3-4f4e-ad7e-1ea6bca651e9)
 
+##Analysis User Story :
+Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story ini memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
 | Sebagai |  Saya ingin bisa | Sehingga | Prioritas |
 |---------|-----------|-------|---------|
@@ -44,6 +46,23 @@ o  Inspirasi desain:
 |Pengguna |  |  | ⭐⭐⭐⭐⭐ |
 |Pengguna |  |  | ⭐⭐⭐⭐⭐ |
 |Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+
+## Analysis : Structure Data
+•  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
+•  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
+
+## Design : Arsitektur Berbasis Client-Server
+Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
+
+## Design : User Experience (UX) Design
+•  Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
+•  Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape (yang saya gunakan), Penpot, lalu yang gratis hingga berbayar seperti Figma.
+•  Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
+
+<img width="415" alt="image" src="https://github.com/idhahamidaturrosadi19/App-ex/assets/144808574/bfa2a5d1-b851-4b84-9e0a-20cc5c3b13bf">
+
+
+
 
 
 
