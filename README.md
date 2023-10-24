@@ -6,12 +6,24 @@ Perpustakaan digital (digital library atau E – Library) adalah tempat di mana 
 
 ![image](https://github.com/idhahamidaturrosadi19/App-ex/assets/144808574/d2e8dc70-0be3-4f4e-ad7e-1ea6bca651e9)
 
-<img width="375" alt="image" src="https://github.com/idhahamidaturrosadi19/App-ex/assets/144808574/64d158c8-ddff-4360-bba2-98a0a8ed865b">
 
 | Sebagai |  Saya ingin bisa | Sehingga | Prioritas |
 |---------|-----------|-------|---------|
-|Pengguna | bjmsaxdhuiwey | gyuewdu | ⭐⭐⭐⭐⭐ |
-|Pengguna | bjmsaxdhuiwey | gyuewdu | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
 
 
 
