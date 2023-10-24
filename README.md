@@ -8,6 +8,11 @@ Perpustakaan digital (digital library atau E – Library) adalah tempat di mana 
 
 <img width="375" alt="image" src="https://github.com/idhahamidaturrosadi19/App-ex/assets/144808574/64d158c8-ddff-4360-bba2-98a0a8ed865b">
 
+| Sebagai |  Saya ingin bisa | Sehingga | Prioritas |
+|---------|-----------|-------|---------|
+|Pengguna | bjmsaxdhuiwey | gyuewdu | ⭐⭐⭐⭐⭐ |
+|Pengguna | bjmsaxdhuiwey | gyuewdu | ⭐⭐⭐⭐⭐ |
+
 
 
 			
